@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+
+.Button {
+  background-color: #ef476f;
+  color: white;
+  font: inherit;
+  border: none;
+  border-radius: 4px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.Button:hover {
+  box-shadow: 0 1px 1px #eee;
+}
+
+.Button:focus {
+  outline: none;
+}
+
+.Button.Green {
+  background-color: #06d6a0;
+}
+
+.Banana {
+  color: #ffd166;
+}
+
+.Bold {
+  font-weight: bold;
+}
